@@ -1,1 +1,1 @@
-Site made with Next.js. View here [chaseclark.github.io](https://chaseclark.github.io/)
+Site made with Next.js. View here -> [chaseclark.github.io](https://chaseclark.github.io/)
