@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Site made with Next.js. View here [chaseclark.github.io](https://chaseclark.github.io/)
